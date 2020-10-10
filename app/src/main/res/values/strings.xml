@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">batiknesia</string>
+    <string name="batik_name">Batik name</string>
+    <string name="ciri">Asal</string>
+    <string name="dd">Deskripsi</string>
+</resources>
